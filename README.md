@@ -44,3 +44,4 @@ for each user in their Google Authenticator entry list.
 ### Community
 * Please send us your suggestions on how we make this code even more useful for the development community or contribute to this repo!
 * Check out our [blog article](https://oril.co/blog/two-factor-authentication-with-java-and-google-authenticator/) with more details!
+* https://medium.com/@ihorsokolyk/two-factor-authentication-with-java-and-google-authenticator-9d7ea15ffee6
